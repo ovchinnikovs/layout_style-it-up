@@ -12,7 +12,6 @@ body {
 
 #header:hover {
   height: 200px;
-  -webkit-transition: all 0.3s ease-in-out;
 }
 
 .important {
@@ -24,7 +23,6 @@ body {
 
 .important:hover {
   height: 200px;
-  -webkit-transition: all 0.3s ease-in-out;
 }
 
 .interesting {
@@ -36,7 +34,6 @@ body {
 
 .interesting:hover {
   height: 200px;
-  -webkit-transition: all 0.3s ease-in-out;
 }
 
 .surprising {
@@ -48,7 +45,6 @@ body {
 
 .surprising:hover {
   height: 200px;
-  -webkit-transition: all 0.3s ease-in-out;
 }
 
 #footer {
@@ -60,5 +56,4 @@ body {
 
 #footer:hover {
   height: 200px;
-  -webkit-transition: all 0.3s ease-in-out;
 }
